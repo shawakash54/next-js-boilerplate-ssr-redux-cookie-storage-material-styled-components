@@ -1,0 +1,12 @@
+node_modules
+.DS_Store
+assets/sass
+views
+build/
+public/
+log/
+.next/
+.env
+seo/sitemap.xml
+coverage
+node_modules
