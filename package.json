@@ -13,7 +13,7 @@
     "prop-types": "latest",
     "cookies": "0.8.0",
     "cookies-js": "1.2.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "next": "9.4.2",
     "next-redux-wrapper": "^6.0.2",
     "react": "^16.8.0",
